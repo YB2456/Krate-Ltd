@@ -19,9 +19,9 @@ def load_lottieurl(url):
 
 hi_five = load_lottieurl("https://assets10.lottiefiles.com/packages/lf20_tulr8tag.json")
 
-me = Image.open("C:\\Users\\HP\\pythonProject\\Kweb\\Images\\me.png")
-joed = Image.open("C:\\Users\\HP\\pythonProject\\Kweb\\Images\\Joed.png")
-adhee = Image.open("C:\\Users\\HP\\pythonProject\\Kweb\\Images\\Adheesha.png")
+me = Image.open("Images/me.png")
+joed = Image.open("Images/Joed.png")
+adhee = Image.open("Images/Adheesha.png")
 #--------------page---------------------
 with st.container():
 
