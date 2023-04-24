@@ -3,7 +3,7 @@ from PIL import Image
 import requests
 from streamlit_lottie import st_lottie
 
-icon = Image.open("C:\\Users\\HP\\pythonProject\\Kweb\\Images\\logo.png")
+icon = Image.open("Images/logo.png")
 st.set_page_config(
     page_title="Krate",
     page_icon=icon
